@@ -1,0 +1,322 @@
+index,image,class,label
+0,Healthy/C10P10E1.jpg,Healthy,0
+3,Healthy/C10P11H1.jpg,Healthy,0
+17,Healthy/C10P19H1.jpg,Healthy,0
+19,Healthy/C10P1H2.jpg,Healthy,0
+24,Healthy/C10P22H1.jpg,Healthy,0
+28,Healthy/C10P24H1.jpg,Healthy,0
+29,Healthy/C10P25E1.jpg,Healthy,0
+36,Healthy/C10P28H1.jpg,Healthy,0
+53,Healthy/C10P37E1.jpg,Healthy,0
+56,Healthy/C10P38H1.jpg,Healthy,0
+66,Healthy/C10P5E2.jpg,Healthy,0
+75,Healthy/C11P10H1.jpg,Healthy,0
+86,Healthy/C11P18E1.jpg,Healthy,0
+103,Healthy/C11P28E1.jpg,Healthy,0
+112,Healthy/C11P32H1.jpg,Healthy,0
+115,Healthy/C11P35E1.jpg,Healthy,0
+116,Healthy/C11P35E2.jpg,Healthy,0
+120,Healthy/C11P36H1.jpg,Healthy,0
+124,Healthy/C11P38H1.jpg,Healthy,0
+126,Healthy/C11P39H1.jpg,Healthy,0
+129,Healthy/C11P6E1.jpg,Healthy,0
+131,Healthy/C11P7E1.jpg,Healthy,0
+132,Healthy/C11P7H1.jpg,Healthy,0
+133,Healthy/C11P8E1.jpg,Healthy,0
+138,Healthy/C12P11H1.jpg,Healthy,0
+143,Healthy/C12P14E1.jpg,Healthy,0
+146,Healthy/C12P15H1.jpg,Healthy,0
+151,Healthy/C12P18E1.jpg,Healthy,0
+154,Healthy/C12P19H2.jpg,Healthy,0
+162,Healthy/C12P22H1.jpg,Healthy,0
+165,Healthy/C12P25E1.jpg,Healthy,0
+199,Healthy/C1P11E1.jpg,Healthy,0
+210,Healthy/C1P18E1.jpg,Healthy,0
+211,Healthy/C1P18H1.jpg,Healthy,0
+217,Healthy/C1P20H1.jpg,Healthy,0
+220,Healthy/C1P22E1.jpg,Healthy,0
+238,Healthy/C1P30H1.jpg,Healthy,0
+260,Healthy/C1P6E1.jpg,Healthy,0
+261,Healthy/C1P6H1.jpg,Healthy,0
+268,Healthy/C2P10E1.jpg,Healthy,0
+297,Healthy/C2P25E1.jpg,Healthy,0
+309,Healthy/C2P35E1.jpg,Healthy,0
+310,Healthy/C2P35H1.jpg,Healthy,0
+318,Healthy/C2P4H1.jpg,Healthy,0
+319,Healthy/C2P5E1.jpg,Healthy,0
+320,Healthy/C2P5H1.jpg,Healthy,0
+334,Healthy/C3P13H1.jpg,Healthy,0
+352,Healthy/C3P25E1.jpg,Healthy,0
+357,Healthy/C3P27E1.jpg,Healthy,0
+379,Healthy/C3P39H1.jpg,Healthy,0
+393,Healthy/C4P10E1.jpg,Healthy,0
+411,Healthy/C4P1H1.jpg,Healthy,0
+415,Healthy/C4P21H1.jpg,Healthy,0
+419,Healthy/C4P24E1.jpg,Healthy,0
+425,Healthy/C4P27E1.jpg,Healthy,0
+429,Healthy/C4P29E1.jpg,Healthy,0
+444,Healthy/C4P40E1.jpg,Healthy,0
+470,Healthy/C5P18H1.jpg,Healthy,0
+481,Healthy/C5P25E1.jpg,Healthy,0
+487,Healthy/C5P27H1.jpg,Healthy,0
+494,Healthy/C5P2H1.jpg,Healthy,0
+497,Healthy/C5P31E1.jpg,Healthy,0
+498,Healthy/C5P31H1.jpg,Healthy,0
+514,Healthy/C5P4E1.jpg,Healthy,0
+519,Healthy/C5P6H1.jpg,Healthy,0
+537,Healthy/C6P16E1.jpg,Healthy,0
+546,Healthy/C6P22H1.jpg,Healthy,0
+552,Healthy/C6P27E2.jpg,Healthy,0
+562,Healthy/C6P32E2.jpg,Healthy,0
+566,Healthy/C6P34E2.jpg,Healthy,0
+572,Healthy/C6P37E2.jpg,Healthy,0
+577,Healthy/C6P3H1.jpg,Healthy,0
+587,Healthy/C6P8H1.jpg,Healthy,0
+595,Healthy/C7P13E2.jpg,Healthy,0
+598,Healthy/C7P15E2.jpg,Healthy,0
+603,Healthy/C7P18H2.jpg,Healthy,0
+606,Healthy/C7P20E1.jpg,Healthy,0
+612,Healthy/C7P23E1.jpg,Healthy,0
+626,Healthy/C7P30H2.jpg,Healthy,0
+631,Healthy/C7P33E2.jpg,Healthy,0
+632,Healthy/C7P33H2.jpg,Healthy,0
+638,Healthy/C7P36H1.jpg,Healthy,0
+644,Healthy/C7P3H2.jpg,Healthy,0
+652,Healthy/C7P8H2.jpg,Healthy,0
+655,Healthy/C7P9H2.jpg,Healthy,0
+673,Healthy/C8P18E1.jpg,Healthy,0
+683,Healthy/C8P21H1.jpg,Healthy,0
+690,Healthy/C8P25E2.jpg,Healthy,0
+699,Healthy/C8P30E2.jpg,Healthy,0
+705,Healthy/C8P34E2.jpg,Healthy,0
+708,Healthy/C8P35H2.jpg,Healthy,0
+711,Healthy/C8P38E2.jpg,Healthy,0
+716,Healthy/C8P3H2.jpg,Healthy,0
+733,Healthy/C9P14E2.jpg,Healthy,0
+736,Healthy/C9P15H2.jpg,Healthy,0
+737,Healthy/C9P17E2.jpg,Healthy,0
+739,Healthy/C9P18E2.jpg,Healthy,0
+740,Healthy/C9P18H2.jpg,Healthy,0
+744,Healthy/C9P20H2.jpg,Healthy,0
+750,Healthy/C9P23H2.jpg,Healthy,0
+761,Healthy/C9P28H2.jpg,Healthy,0
+770,Healthy/C9P35E2.jpg,Healthy,0
+772,Healthy/C9P36E2.jpg,Healthy,0
+778,Healthy/C9P3H2.jpg,Healthy,0
+779,Healthy/C9P4E2.jpg,Healthy,0
+783,Healthy/C9P6E2.jpg,Healthy,0
+784,Healthy/C9P6H2.jpg,Healthy,0
+791,Red Spider Mite/C10P13E2.jpg,Red Spider Mite,1
+792,Red Spider Mite/C10P14E2.jpg,Red Spider Mite,1
+793,Red Spider Mite/C10P18E2.jpg,Red Spider Mite,1
+794,Red Spider Mite/C10P1E1.jpg,Red Spider Mite,1
+795,Red Spider Mite/C10P22E2.jpg,Red Spider Mite,1
+796,Red Spider Mite/C10P22H2.jpg,Red Spider Mite,1
+799,Red Spider Mite/C10P25E2.jpg,Red Spider Mite,1
+800,Red Spider Mite/C10P25H2.jpg,Red Spider Mite,1
+803,Red Spider Mite/C10P28H2.jpg,Red Spider Mite,1
+805,Red Spider Mite/C10P29H2.jpg,Red Spider Mite,1
+807,Red Spider Mite/C10P30H2.jpg,Red Spider Mite,1
+810,Red Spider Mite/C10P37E2.jpg,Red Spider Mite,1
+813,Red Spider Mite/C10P9E2.jpg,Red Spider Mite,1
+814,Red Spider Mite/C11P15H2.jpg,Red Spider Mite,1
+816,Red Spider Mite/C11P19H2.jpg,Red Spider Mite,1
+817,Red Spider Mite/C11P20E2.jpg,Red Spider Mite,1
+818,Red Spider Mite/C11P20H2.jpg,Red Spider Mite,1
+819,Red Spider Mite/C11P23E1.jpg,Red Spider Mite,1
+820,Red Spider Mite/C11P24E2.jpg,Red Spider Mite,1
+821,Red Spider Mite/C11P2E2.jpg,Red Spider Mite,1
+823,Red Spider Mite/C11P31E2.jpg,Red Spider Mite,1
+824,Red Spider Mite/C11P32E2.jpg,Red Spider Mite,1
+827,Red Spider Mite/C11P37E2.jpg,Red Spider Mite,1
+828,Red Spider Mite/C11P39E2.jpg,Red Spider Mite,1
+829,Red Spider Mite/C11P39H2.jpg,Red Spider Mite,1
+830,Red Spider Mite/C11P9E2.jpg,Red Spider Mite,1
+831,Red Spider Mite/C11P9H2.jpg,Red Spider Mite,1
+832,Red Spider Mite/C12P13E2.jpg,Red Spider Mite,1
+833,Red Spider Mite/C12P13H2.jpg,Red Spider Mite,1
+836,Red Spider Mite/C12P20E2.jpg,Red Spider Mite,1
+837,Red Spider Mite/C12P4E2.jpg,Red Spider Mite,1
+839,Red Spider Mite/C12P6E2.jpg,Red Spider Mite,1
+840,Red Spider Mite/C1P33E1.jpg,Red Spider Mite,1
+841,Red Spider Mite/C2P10E2.jpg,Red Spider Mite,1
+842,Red Spider Mite/C2P10H2.jpg,Red Spider Mite,1
+843,Red Spider Mite/C2P12E2.jpg,Red Spider Mite,1
+844,Red Spider Mite/C2P12H2.jpg,Red Spider Mite,1
+845,Red Spider Mite/C2P13E2.jpg,Red Spider Mite,1
+846,Red Spider Mite/C2P13H2.jpg,Red Spider Mite,1
+847,Red Spider Mite/C2P14E2.jpg,Red Spider Mite,1
+848,Red Spider Mite/C2P14H2.jpg,Red Spider Mite,1
+849,Red Spider Mite/C2P15E2.jpg,Red Spider Mite,1
+851,Red Spider Mite/C2P17H2.jpg,Red Spider Mite,1
+852,Red Spider Mite/C2P18E2.jpg,Red Spider Mite,1
+855,Red Spider Mite/C2P23E2.jpg,Red Spider Mite,1
+857,Red Spider Mite/C2P27E2.jpg,Red Spider Mite,1
+858,Red Spider Mite/C2P30E2.jpg,Red Spider Mite,1
+860,Red Spider Mite/C2P31E2.jpg,Red Spider Mite,1
+861,Red Spider Mite/C2P31H2.jpg,Red Spider Mite,1
+862,Red Spider Mite/C2P33H2.jpg,Red Spider Mite,1
+863,Red Spider Mite/C2P35E2.jpg,Red Spider Mite,1
+864,Red Spider Mite/C2P35H2.jpg,Red Spider Mite,1
+866,Red Spider Mite/C2P39E2.jpg,Red Spider Mite,1
+867,Red Spider Mite/C2P7E2.jpg,Red Spider Mite,1
+869,Red Spider Mite/C2P8H2.jpg,Red Spider Mite,1
+870,Red Spider Mite/C2P9E2.jpg,Red Spider Mite,1
+871,Red Spider Mite/C2P9H2.jpg,Red Spider Mite,1
+873,Red Spider Mite/C3P13H2.jpg,Red Spider Mite,1
+874,Red Spider Mite/C3P16H2.jpg,Red Spider Mite,1
+875,Red Spider Mite/C3P19H2.jpg,Red Spider Mite,1
+876,Red Spider Mite/C3P22E2.jpg,Red Spider Mite,1
+878,Red Spider Mite/C3P23E2.jpg,Red Spider Mite,1
+881,Red Spider Mite/C3P2E2.jpg,Red Spider Mite,1
+882,Red Spider Mite/C3P37E2.jpg,Red Spider Mite,1
+883,Red Spider Mite/C3P38E2.jpg,Red Spider Mite,1
+884,Red Spider Mite/C3P39E2.jpg,Red Spider Mite,1
+885,Red Spider Mite/C3P3E2.jpg,Red Spider Mite,1
+888,Red Spider Mite/C3P4H2.jpg,Red Spider Mite,1
+889,Red Spider Mite/C3P5E2.jpg,Red Spider Mite,1
+890,Red Spider Mite/C3P7E2.jpg,Red Spider Mite,1
+892,Red Spider Mite/C4P10E2.jpg,Red Spider Mite,1
+893,Red Spider Mite/C4P10H2.jpg,Red Spider Mite,1
+896,Red Spider Mite/C4P15E2.jpg,Red Spider Mite,1
+897,Red Spider Mite/C4P19E2.jpg,Red Spider Mite,1
+898,Red Spider Mite/C4P19H2.jpg,Red Spider Mite,1
+899,Red Spider Mite/C4P1E2.jpg,Red Spider Mite,1
+900,Red Spider Mite/C4P22E2.jpg,Red Spider Mite,1
+901,Red Spider Mite/C4P22H2.jpg,Red Spider Mite,1
+902,Red Spider Mite/C4P23E1.jpg,Red Spider Mite,1
+905,Red Spider Mite/C4P25H2.jpg,Red Spider Mite,1
+907,Red Spider Mite/C4P28E2.jpg,Red Spider Mite,1
+913,Red Spider Mite/C4P4H2.jpg,Red Spider Mite,1
+916,Red Spider Mite/C4P6H2.jpg,Red Spider Mite,1
+917,Red Spider Mite/C4P7H2.jpg,Red Spider Mite,1
+918,Red Spider Mite/C4P9E2.jpg,Red Spider Mite,1
+919,Red Spider Mite/C5P18H2.jpg,Red Spider Mite,1
+922,Red Spider Mite/C5P24E2.jpg,Red Spider Mite,1
+924,Red Spider Mite/C5P2E2.jpg,Red Spider Mite,1
+926,Red Spider Mite/C5P39E2.jpg,Red Spider Mite,1
+927,Red Spider Mite/C5P39H2.jpg,Red Spider Mite,1
+931,Red Spider Mite/C6P22H2.jpg,Red Spider Mite,1
+933,Red Spider Mite/C6P36H2.jpg,Red Spider Mite,1
+934,Red Spider Mite/C6P40E2.jpg,Red Spider Mite,1
+935,Red Spider Mite/C6P40H2.jpg,Red Spider Mite,1
+936,Red Spider Mite/C6P6H2.jpg,Red Spider Mite,1
+938,Red Spider Mite/C6P9H2.jpg,Red Spider Mite,1
+941,Red Spider Mite/C7P31E2.jpg,Red Spider Mite,1
+942,Red Spider Mite/C7P31H2.jpg,Red Spider Mite,1
+944,Red Spider Mite/C7P39E2.jpg,Red Spider Mite,1
+945,Red Spider Mite/C7P39H2.jpg,Red Spider Mite,1
+946,Red Spider Mite/C7P6E2.jpg,Red Spider Mite,1
+948,Red Spider Mite/C8P8E1.jpg,Red Spider Mite,1
+949,Red Spider Mite/C8P8H1.jpg,Red Spider Mite,1
+953,Red Spider Mite/C9P28E1.jpg,Red Spider Mite,1
+955,Red Spider Mite/C9P35H1.jpg,Red Spider Mite,1
+956,Red Spider Mite/C9P36E1.jpg,Red Spider Mite,1
+957,Red Spider Mite/C9P6E1.jpg,Red Spider Mite,1
+959,Rust/C10P10H2.jpg,Rust,2
+978,Rust/C10P21H2.jpg,Rust,2
+983,Rust/C10P27H2.jpg,Rust,2
+987,Rust/C10P34H2.jpg,Rust,2
+988,Rust/C10P35E2.jpg,Rust,2
+990,Rust/C10P37H2.jpg,Rust,2
+999,Rust/C10P5H1.jpg,Rust,2
+1009,Rust/C11P12E2.jpg,Rust,2
+1011,Rust/C11P13E2.jpg,Rust,2
+1016,Rust/C11P18E2.jpg,Rust,2
+1019,Rust/C11P21H2.jpg,Rust,2
+1040,Rust/C11P5E2.jpg,Rust,2
+1042,Rust/C11P6E2.jpg,Rust,2
+1043,Rust/C11P6H2.jpg,Rust,2
+1048,Rust/C12P11E2.jpg,Rust,2
+1053,Rust/C12P14H2.jpg,Rust,2
+1056,Rust/C12P16E2.jpg,Rust,2
+1061,Rust/C12P19E1.jpg,Rust,2
+1066,Rust/C12P21H2.jpg,Rust,2
+1074,Rust/C12P28H2.jpg,Rust,2
+1075,Rust/C12P29E2.jpg,Rust,2
+1076,Rust/C12P29H2.jpg,Rust,2
+1089,Rust/C12P38E2.jpg,Rust,2
+1098,Rust/C12P9E2.jpg,Rust,2
+1100,Rust/C1P10E2.jpg,Rust,2
+1102,Rust/C1P11E2.jpg,Rust,2
+1103,Rust/C1P11H2.jpg,Rust,2
+1111,Rust/C1P15E2.jpg,Rust,2
+1112,Rust/C1P15H2.jpg,Rust,2
+1118,Rust/C1P19H2.jpg,Rust,2
+1123,Rust/C1P21E2.jpg,Rust,2
+1124,Rust/C1P21H2.jpg,Rust,2
+1126,Rust/C1P22H2.jpg,Rust,2
+1130,Rust/C1P24H2.jpg,Rust,2
+1137,Rust/C1P28E2.jpg,Rust,2
+1142,Rust/C1P2H2.jpg,Rust,2
+1148,Rust/C1P32E2.jpg,Rust,2
+1151,Rust/C1P33H2.jpg,Rust,2
+1152,Rust/C1P34E2.jpg,Rust,2
+1153,Rust/C1P34H2.jpg,Rust,2
+1154,Rust/C1P35E2.jpg,Rust,2
+1156,Rust/C1P38E2.jpg,Rust,2
+1171,Rust/C1P7H2.jpg,Rust,2
+1175,Rust/C1P9H2.jpg,Rust,2
+1180,Rust/C2P18H1.jpg,Rust,2
+1188,Rust/C2P25H2.jpg,Rust,2
+1198,Rust/C2P4H2.jpg,Rust,2
+1200,Rust/C2P5H2.jpg,Rust,2
+1204,Rust/C3P10H2.jpg,Rust,2
+1207,Rust/C3P13E2.jpg,Rust,2
+1210,Rust/C3P15E2.jpg,Rust,2
+1223,Rust/C3P27E2.jpg,Rust,2
+1232,Rust/C3P31E2.jpg,Rust,2
+1236,Rust/C3P33E2.jpg,Rust,2
+1237,Rust/C3P33H2.jpg,Rust,2
+1247,Rust/C3P9E2.jpg,Rust,2
+1250,Rust/C4P12H2.jpg,Rust,2
+1255,Rust/C4P16H2.jpg,Rust,2
+1259,Rust/C4P18H2.jpg,Rust,2
+1273,Rust/C4P2E2.jpg,Rust,2
+1295,Rust/C5P12H1.jpg,Rust,2
+1301,Rust/C5P18E2.jpg,Rust,2
+1306,Rust/C5P22E2.jpg,Rust,2
+1315,Rust/C5P29H2.jpg,Rust,2
+1319,Rust/C5P31H2.jpg,Rust,2
+1334,Rust/C5P5H2.jpg,Rust,2
+1345,Rust/C6P11H2.jpg,Rust,2
+1348,Rust/C6P13H2.jpg,Rust,2
+1352,Rust/C6P1E2.jpg,Rust,2
+1362,Rust/C6P27H1.jpg,Rust,2
+1365,Rust/C6P31E1.jpg,Rust,2
+1371,Rust/C6P34E1.jpg,Rust,2
+1379,Rust/C6P3E2.jpg,Rust,2
+1382,Rust/C6P4H2.jpg,Rust,2
+1392,Rust/C7P12E2.jpg,Rust,2
+1403,Rust/C7P18H1.jpg,Rust,2
+1407,Rust/C7P20H2.jpg,Rust,2
+1408,Rust/C7P21E2.jpg,Rust,2
+1420,Rust/C7P29H2.jpg,Rust,2
+1422,Rust/C7P2H1.jpg,Rust,2
+1426,Rust/C7P32H1.jpg,Rust,2
+1430,Rust/C7P34H1.jpg,Rust,2
+1441,Rust/C7P5H1.jpg,Rust,2
+1442,Rust/C7P6E1.jpg,Rust,2
+1447,Rust/C7P8H1.jpg,Rust,2
+1449,Rust/C8P10H2.jpg,Rust,2
+1450,Rust/C8P11E2.jpg,Rust,2
+1459,Rust/C8P16H1.jpg,Rust,2
+1460,Rust/C8P17E1.jpg,Rust,2
+1461,Rust/C8P17E2.jpg,Rust,2
+1463,Rust/C8P17H2.jpg,Rust,2
+1479,Rust/C8P28H2.jpg,Rust,2
+1480,Rust/C8P29E2.jpg,Rust,2
+1487,Rust/C8P35H1.jpg,Rust,2
+1489,Rust/C8P37H2.jpg,Rust,2
+1491,Rust/C8P38H1.jpg,Rust,2
+1492,Rust/C8P39E2.jpg,Rust,2
+1495,Rust/C8P3H1.jpg,Rust,2
+1503,Rust/C9P10H1.jpg,Rust,2
+1504,Rust/C9P11E1.jpg,Rust,2
+1513,Rust/C9P17H1.jpg,Rust,2
+1519,Rust/C9P21E1.jpg,Rust,2
+1521,Rust/C9P22E1.jpg,Rust,2
+1529,Rust/C9P26H1.jpg,Rust,2
+1535,Rust/C9P30E1.jpg,Rust,2
+1545,Rust/C9P38H1.jpg,Rust,2
+1547,Rust/C9P3E2.jpg,Rust,2
